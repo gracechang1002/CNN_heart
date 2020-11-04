@@ -21,4 +21,5 @@ Matlab 2019版本之AlexNet之網路訓練結果相當或更優越的結果。<b
 作為驗證資料，即表示有130筆資料為訓練資料，其中有24筆為正常竇率、77筆為心律不整、29<br
 筆為充血性心臟衰竭；32筆資料為驗證資料，其中6筆為正常竇率、19筆為心律不整、7筆為充血<br>
 性心臟衰竭。本次實驗為公平起見，均使用相同的資料來進行訓練及驗證<br>
+![image width="50%" height="50%"](https://github.com/gracechang1002/CNN_heart/blob/master/data.png)
 <img src="https://github.com/gracechang1002/CNN_heart/blob/master/data.png" width="50%" height="50%" />
