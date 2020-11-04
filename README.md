@@ -24,7 +24,7 @@ Matlab 2019版本之AlexNet之網路訓練結果相當或更優越的結果。<b
 <br>
 <img src="https://github.com/gracechang1002/CNN_heart/blob/master/data.png" width="50%" height="50%" />
 
-##網路模型架構與參數設計
+## 網路模型架構與參數設計
 整體網路架構與AlexNet相同，其中X1設定為池化遮層罩大小；X2設定為卷積層遮罩數量；X3設<br>
 定為訓練時所使用的梯度方法；X4設定為卷積層第一層遮罩大小；X5設定為卷積層第二層遮罩大<br>
 小，X6設定為卷積層第三、四、五層遮罩大小；X7設定為訓練是所使用的正規化方法；X8設定為<br>
